@@ -7,9 +7,8 @@ Bem-vindo ao meu portfólio de Power BI! Aqui você encontrará uma coleção de
 ### 1. Análise de Vendas e Desempenho Comercial
 **Descrição**: Este projeto foca na análise de vendas para monitorar o desempenho comercial, identificar tendências e avaliar o cumprimento de metas de vendas.
 **Componentes**:
-- Gráficos de linha mostrando a receita ao longo do tempo.
+- Gráficos de barras mostrando a receita ao longo do tempo.
 - Gráficos de barras comparando as vendas por produto.
-- Mapa geográfico mostrando a distribuição das vendas por região.
 - KPIs (Indicadores Chave de Desempenho) comparando a receita atual com as metas de vendas.
 
 
