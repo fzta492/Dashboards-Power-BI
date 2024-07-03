@@ -30,7 +30,7 @@ Este projeto de Power BI foi criado para analisar as vendas e o desempenho comer
 Para mais informações ou colaborações, entre em contato:
 - **Nome**: Fellipe Bandeira
 - **Email**: flzeta7@gmail.com
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/fellipe-bandeira)
+- **LinkedIn**: [/fellipe-bandeira](https://www.linkedin.com/in/fellipe-bandeira)
 
 ---
 
