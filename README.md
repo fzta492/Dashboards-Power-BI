@@ -14,8 +14,20 @@ Bem-vindo ao meu portfólio de Power BI! Aqui você encontrará uma coleção de
 
 [Explore o Projeto](https://github.com/fzta492/Dashboards-Power-BI/tree/main/Vendas)
 
+### 2. Estoque e Caixa
+**Descrição**: Este projeto de Power BI foi criado para monitorar e analisar o estoque e o fluxo de caixa das lojas. O dashboard fornece uma visão abrangente das métricas de estoque, lucro bruto, itens em estoque e desempenho mensal, com funcionalidades de filtro por loja e produto.
+**Componentes:
+- Estoque em Loja: Visualização do estoque por loja com filtros para selecionar lojas específicas.
+- Indicadores de Desempenho: Lucro bruto total e total de itens em estoque.
+- Estoque por Produto: Gráfico de barras exibindo a quantidade de estoque por produto.
+- Lucro Mensal: Gráfico de linha mostrando o lucro bruto ao longo dos meses.
+- Mapa de Localização: Visualização geográfica das lojas e seu estoque.
+
+
+[Explore o Projeto](https://github.com/fzta492/Dashboards-Power-BI/tree/main/Estoque)
+
 ## Como Utilizar
-1. Clone este repositório: `git clone https://github.com/seu_usuario/seu_repositorio.git`
+1. Clone este repositório: `git clone https://github.com/fzta492/Dashboards-Power-BI.git`
 2. Navegue até o projeto de interesse.
 3. Abra o arquivo do Power BI (`.pbix`) no Power BI Desktop.
 4. Explore os dashboards e os insights gerados.
@@ -24,7 +36,7 @@ Bem-vindo ao meu portfólio de Power BI! Aqui você encontrará uma coleção de
 Para mais informações ou colaborações, entre em contato:
 - **Nome**: Fellipe Bandeira
 - **Email**: flzeta7@gmail.com
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu_perfil)
+- **LinkedIn**: [/fellipe-bandeira](https://www.linkedin.com/in/fellipe-bandeira)
 
 ---
 
