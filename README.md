@@ -5,7 +5,7 @@ Bem-vindo ao meu portfólio de Power BI! Aqui você encontrará uma coleção de
 ## Projetos
 
 ### 1. Análise de Vendas e Desempenho Comercial
-**Descrição**: Este projeto foca na análise de vendas para monitorar o desempenho comercial, identificar tendências e avaliar o cumprimento de metas de vendas.
+**Descrição**: Este projeto foca na análise de vendas para monitorar o desempenho comercial, identificar tendências e avaliar o cumprimento de metas de vendas.</br>
 **Componentes**:
 - Gráficos de barras mostrando a receita ao longo do tempo.
 - Gráficos de barras comparando as vendas por produto.
@@ -15,10 +15,9 @@ Bem-vindo ao meu portfólio de Power BI! Aqui você encontrará uma coleção de
 [Explore o Projeto](https://github.com/fzta492/Dashboards-Power-BI/tree/main/Vendas)
 
 ### 2. Estoque e Caixa
-**Descrição**: Este projeto de Power BI foi criado para monitorar e analisar o estoque e o fluxo de caixa das lojas. O dashboard fornece uma visão abrangente das métricas de estoque, lucro bruto, itens em estoque e desempenho mensal, com funcionalidades de filtro por loja e produto.
-**Componentes:
+**Descrição**: Este projeto de Power BI foi criado para monitorar e analisar o estoque e o fluxo de caixa das lojas. O dashboard fornece uma visão abrangente das métricas de estoque, lucro bruto, itens em estoque e desempenho mensal, com funcionalidades de filtro por loja e produto.</br>
+**Componentes**:
 - Estoque em Loja: Visualização do estoque por loja com filtros para selecionar lojas específicas.
-- Indicadores de Desempenho: Lucro bruto total e total de itens em estoque.
 - Estoque por Produto: Gráfico de barras exibindo a quantidade de estoque por produto.
 - Lucro Mensal: Gráfico de linha mostrando o lucro bruto ao longo dos meses.
 - Mapa de Localização: Visualização geográfica das lojas e seu estoque.
