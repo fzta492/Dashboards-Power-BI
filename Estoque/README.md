@@ -7,6 +7,15 @@ Este projeto de Power BI foi criado para monitorar e analisar o estoque e o flux
 ![Dashboard de Estoque e Caixa](https://github.com/fzta492/Dashboards-Power-BI/assets/76072907/822c0fcc-5ca9-4fc5-9fa7-1d37036b6ebe)
 
 
+## Perguntas que o Dashboard Responde
+1. Qual é o estoque atual em cada loja?
+2. Qual é o lucro bruto total e quantos itens estão em estoque?
+3. Como o estoque está distribuído entre os diferentes produtos?
+4. Qual foi o lucro bruto mensal ao longo do ano?
+5. Onde estão localizadas as lojas e qual é o estoque em cada uma?
+
+
+
 ## Funcionalidades do Dashboard
 
 1. **Estoque em Loja**:
@@ -37,12 +46,7 @@ Este projeto de Power BI foi criado para monitorar e analisar o estoque e o flux
 - **Produto**:
   - Permite a seleção de diferentes categorias de produtos para análise específica.
 
-## Perguntas que o Dashboard Responde
-1. Qual é o estoque atual em cada loja?
-2. Qual é o lucro bruto total e quantos itens estão em estoque?
-3. Como o estoque está distribuído entre os diferentes produtos?
-4. Qual foi o lucro bruto mensal ao longo do ano?
-5. Onde estão localizadas as lojas e qual é o estoque em cada uma?
+
 
 ## Como Utilizar
 1. Clone este repositório: `git clone https://github.com/fzta492/Dashboards-Power-BI.git`
