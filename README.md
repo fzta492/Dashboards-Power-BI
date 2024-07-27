@@ -30,7 +30,10 @@ Bem-vindo ao meu portfólio de Power BI e Looker Studio! Aqui você encontrará 
 **Descrição**:Este repositório contém a análise de dados de crimes ocorridos em São Paulo nos anos de 2019 e 2020, utilizando BigQuery para consultas SQL e Looker para visualização e geração de relatórios.
 
 [Explore o Projeto]()
----
+
+
+</br>
+
 ## Como Utilizar
 1. Clone este repositório: `git clone https://github.com/fzta492/Dashboards-Power-BI.git`
 2. Navegue até o projeto de interesse.
