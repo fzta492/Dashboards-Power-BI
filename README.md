@@ -1,6 +1,6 @@
-# Portfólio de Power BI
+# Portfólio de Power BI e Looker Studio
 
-Bem-vindo ao meu portfólio de Power BI! Aqui você encontrará uma coleção de projetos que demonstram minhas habilidades em análise de dados, visualização e criação de dashboards interativos usando o Power BI. Cada projeto inclui uma descrição detalhada, os conjuntos de dados utilizados e os insights gerados.
+Bem-vindo ao meu portfólio de Power BI e Looker Studio! Aqui você encontrará uma coleção de projetos que demonstram minhas habilidades em análise de dados, visualização e criação de dashboards interativos usando o Power BI e Looker Studio. Cada projeto inclui uma descrição detalhada, os conjuntos de dados utilizados e os insights gerados.
 
 ## Projetos
 
@@ -25,6 +25,12 @@ Bem-vindo ao meu portfólio de Power BI! Aqui você encontrará uma coleção de
 
 [Explore o Projeto](https://github.com/fzta492/Dashboards-Power-BI/tree/main/Estoque)
 
+### 3. Análise de Dados de Crimes em São Paulo
+
+**Descrição**:Este repositório contém a análise de dados de crimes ocorridos em São Paulo nos anos de 2019 e 2020, utilizando BigQuery para consultas SQL e Looker para visualização e geração de relatórios.
+
+[Explore o Projeto]()
+---
 ## Como Utilizar
 1. Clone este repositório: `git clone https://github.com/fzta492/Dashboards-Power-BI.git`
 2. Navegue até o projeto de interesse.
