@@ -94,7 +94,7 @@ Criando uma consulta direta para puxar o volume total de ocorrèncias.
 ## Aprendizado com os dados
 
 Tendências Temporais</br>
-Observamos  possuir variação por ano. A quantidade de crimes no ano de 2019 é maior que no ano de 2020.
+Foi observado possuir variação por ano. A quantidade de crimes no ano de 2019 é maior que no ano de 2020.
 Áreas Críticas</br>
 Algumas delegacias registraram  altos números de certos tipos de crimes, indicando a necessidade de intervenções específicas nessas áreas.
 Distribuição dos Crimes</br>
@@ -103,9 +103,9 @@ Identificamos que certos tipos de crimes, como roubos de veículos, têm uma dis
 ## Conclusão
 A análise dos dados de crimes ocorridos em São Paulo nos anos de 2019 e 2020 revela várias tendências e padrões importantes que nos ajudam a entender melhor a segurança pública na cidade.
 
-Embora tenhamos dados apenas anuais, algo que chamou bastante atenção foi que 2019 registrou um número significativamente maior de crimes em comparação com 2020.
+Embora possua dados apenas anuais, algo que chamou bastante atenção foi que 2019 registrou um número significativamente maior de crimes em comparação com 2020.
 
-Quando olhamos para locais específicos, percebemos que algumas delegacias no centro da cidade, como a "001 DP - Sé" e a "002 DP - Bom Retiro", registraram altos números de crimes. Essas áreas centrais, com a densidade populacional e presença de atividade comercial, são pontos críticos de criminalidade. Por outro lado, algumas áreas periféricas também mostraram alta incidência de crimes, especialmente roubos e furtos de veículos.
+Ao observar locais específicos, percebe-se que algumas delegacias no centro da cidade, como a "001 DP - Sé" e a "002 DP - Bom Retiro", registraram altos números de crimes. Essas áreas centrais, com a densidade populacional e presença de atividade comercial, são pontos críticos de criminalidade. Por outro lado, algumas áreas periféricas também mostraram alta incidência de crimes, especialmente roubos e furtos de veículos.
 
 Os dados indicam que roubos e furtos foram os tipos de crimes mais comuns registrados em São Paulo. Roubos de carga e veículos são particularmente mais presentes nas áreas periféricas e nas principais vias de acesso. Crimes violentos, como homicídios e latrocínios, apresentaram uma distribuição mais concentrada em determinadas áreas.
 
