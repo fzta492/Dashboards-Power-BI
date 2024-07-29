@@ -11,7 +11,7 @@ Utilizando ferramentas como BigQuery para consultas SQL e Looker para a criaçã
 4. Apresentar os resultados.
 
 ## Metodologia
-A análise foi conduzida em várias etapas, incluindo a importação dos dados para o BigQuery, limpeza e transformação dos dados, e a criação de consultas SQL avançadas para extrair insights. Em seguida, utilizamos o Looker para criar visualizações que facilitam a interpretação dos resultados.
+A análise foi conduzida em várias etapas, incluindo a importação dos dados para o BigQuery, limpeza e transformação dos dados, e a criação de consultas SQL avançadas para extrair insights. Em seguida, foi utilizado o Looker para criar visualizações que facilitam a interpretação dos resultados.
 
 ## Importação de Dados
 
