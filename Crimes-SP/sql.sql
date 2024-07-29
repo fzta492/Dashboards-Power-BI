@@ -25,7 +25,24 @@ FROM
 
 ---
 #Análise Temporal
-SELECT Ano, COUNT(Ano) AS total_crimes
+SELECT Ano, SUM(FurtosNaRegiao 
+                + RouboDeCarga 
+                + Roubos 
+                + RouboDeVeiculo 
+                + FurtoDeVeiculo
+                + Latrocinios
+                + HomicidioDolosoPorAcidenteDeTransito
+                + HomicidioCulposoPorAcidenteDeTransito
+                + HomicidioCulposo
+                + TentativaDeHomicidio
+                + LesaoCorporalSeguidaDeMorte
+                + LesaoCorporalDolosa
+                + LesaoCorporalCulposaPorAcidenteDeTransito
+                + LesaoCorporalCulposa
+                + Estupro
+                + EstuproDeVulneravel
+                + RouboaBanco
+                ) AS total_crimes
 FROM crimessp-430719.dadoscrimessp.dadosRenomeados
 GROUP BY Ano
 ORDER BY total_crimes;
