@@ -107,7 +107,7 @@ Embora possua dados apenas anuais, algo que chamou bastante atenção foi que 20
 
 Ao observar locais específicos, percebe-se que algumas delegacias no centro da cidade, como a "001 DP - Sé" e a "002 DP - Bom Retiro", registraram altos números de crimes. Essas áreas centrais, com a densidade populacional e presença de atividade comercial, são pontos críticos de criminalidade. Por outro lado, algumas áreas periféricas também mostraram alta incidência de crimes, especialmente roubos e furtos de veículos.
 
-Os dados indicam que roubos e furtos foram os tipos de crimes mais comuns registrados em São Paulo. Roubos de carga e veículos são particularmente mais presentes nas áreas periféricas e nas principais vias de acesso. Crimes violentos, como homicídios e latrocínios, apresentaram uma distribuição mais concentrada em determinadas áreas.
+Os dados indicam que roubos e furtos foram os tipos de crimes mais comuns registrados em São Paulo. Roubos de carga e veículos são particularmente mais presentes nas áreas periféricas. Crimes violentos, como homicídios e latrocínios, apresentaram uma distribuição mais concentrada em determinadas áreas.
 
 Crimes contra a pessoa, incluindo estupro e lesão corporal dolosa, também mostraram números alarmantes.
 
