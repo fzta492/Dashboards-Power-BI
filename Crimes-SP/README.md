@@ -131,7 +131,7 @@ Utilizar as visualizações e análises para identificar as delegacias e regiõe
 Para mais informações ou colaborações, entre em contato:
 - **Nome**: Fellipe Bandeira
 - **Email**: flzeta7@gmail.com
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/fellipe-bandeira)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/fellipe-bandeira)
 
 ---
 
