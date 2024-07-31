@@ -29,7 +29,7 @@ Bem-vindo ao meu portfólio de Power BI e Looker Studio! Aqui você encontrará 
 
 **Descrição**:Este repositório contém a análise de dados de crimes ocorridos em São Paulo nos anos de 2019 e 2020, utilizando BigQuery para consultas SQL e Looker para visualização e geração de relatórios.
 
-[Explore o Projeto](https://github.com/fzta492/Dashboards-Power-BI/blob/main/Crimes-SP/read.md)
+[Explore o Projeto](https://github.com/fzta492/Dashboards-Power-BI/tree/main/Crimes-SP#an%C3%A1lise-de-dados-de-crimes-em-s%C3%A3o-paulo)
 
 
 </br>
