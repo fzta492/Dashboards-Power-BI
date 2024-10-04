@@ -143,7 +143,7 @@ Personalização de Promoções: Segmentar as campanhas com base nos perfis de c
 
 2. Abra o arquivo no Power BI:
 
-3.  Use o Power BI Desktop para abrir o arquivo .pbix localizado na pasta do projeto.
+-  Use o Power BI Desktop para abrir o arquivo .pbix localizado na pasta do projeto.
 Explorar os Dashboards:
 
    Utilize os filtros e explore as diferentes visualizações para identificar padrões de vendas, segmentações de clientes e elaborar estratégias personalizadas.
