@@ -31,6 +31,12 @@ Bem-vindo ao meu portfólio de Power BI e Looker Studio! Aqui você encontrará 
 
 [Explore o Projeto](https://github.com/fzta492/Dashboards-Power-BI/tree/main/Crimes-SP#an%C3%A1lise-de-dados-de-crimes-em-s%C3%A3o-paulo)
 
+### 4. Análise de Vendas - DrivaTech
+
+**Descrição**:Este projeto apresenta uma análise detalhada das vendas de um cliente fictício da DrivaTech, uma empresa de tecnologia que fornece soluções para o varejo.
+
+[Explore o Projeto](https://github.com/fzta492/desafio-DRIVA?tab=readme-ov-file#an%C3%A1lise-de-vendas---drivatech)
+
 
 </br>
 
