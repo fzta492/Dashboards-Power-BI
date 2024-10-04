@@ -35,7 +35,7 @@ Bem-vindo ao meu portfólio de Power BI e Looker Studio! Aqui você encontrará 
 
 **Descrição**:Este projeto apresenta uma análise detalhada das vendas de um cliente fictício da DrivaTech, uma empresa de tecnologia que fornece soluções para o varejo.
 
-[Explore o Projeto](https://github.com/fzta492/desafio-DRIVA?tab=readme-ov-file#an%C3%A1lise-de-vendas---drivatech)
+[Explore o Projeto](https://github.com/fzta492/Dashboards-Power-BI/blob/main/dasafio-DRIVA/README.md#an%C3%A1lise-de-vendas---drivatech)
 
 
 </br>
