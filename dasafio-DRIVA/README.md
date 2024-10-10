@@ -22,7 +22,7 @@ O dashboard foi desenvolvido com base nos dados fornecidos, contendo visualizaç
 
 ### Elementos do Dashboard
 
-1. **Indicadores Chave (Cards)**
+1. **Cards**
    - **Total de Vendas**: Valor total de vendas no período selecionado.
    - **Quantidade de Vendas**: Quantidade total de itens vendidos.
    - **Número de Clientes**: Total de clientes únicos que realizaram compras no período.
