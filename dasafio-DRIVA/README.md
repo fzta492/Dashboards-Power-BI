@@ -4,7 +4,7 @@
 
 Este projeto apresenta uma análise detalhada das vendas de um cliente fictício da **DrivaTech**, uma empresa de tecnologia que fornece soluções para o varejo. A análise tem como objetivo identificar padrões de vendas, segmentar consumidores e recomendar estratégias para melhorar a distribuição de produtos e a efetividade das campanhas de marketing.
 
-O projeto é apresentado através de um dashboard interativo no Power BI, que possibilita a análise de dados por meio de filtros dinâmicos e gráficos intuitivos.
+O projeto é apresentado através de um dashboard no Power BI, que possibilita a análise de dados por meio de filtros e gráficos.
 
 ## Objetivo do Projeto
 
